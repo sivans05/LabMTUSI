@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(158, 158, 158);
+    color: black;
+
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: green;
+}
+
+.Kote {
+    border-radius: 28px;
+    box-shadow: 10px 10px 25px rgba(0, 0, 0, 50)
+}
+
+.info p {
+    color: rgb(109, 42, 172);
+    text-decoration: underline;
+    text-transform: uppercase;
+}
